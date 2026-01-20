@@ -1,2 +1,2 @@
 # Hospital_DBMS
-Python scripts to create and populate a hospital database with random data
+HospitalDB is a simulated Hospital data management system built with Python and MySQL, featuring multiple related tables, automated random data generation, and Excel export for easy analysis.
